@@ -1,0 +1,11 @@
+Package: grithub
+Type: Package
+Title: Used to test github installs
+Version: 0.1.0
+Author: Sam Perman
+Maintainer: Sam Perman <sam@posit.co>
+Description: Doesn't do much.
+    You can install it and try it out.
+License: None
+Encoding: UTF-8
+LazyData: true
